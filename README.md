@@ -73,7 +73,7 @@ AP包括: `卫星(Agent)`和`有线AP(Wired AP)`两种
    这个节点关闭前传无线信号，也就是不允许其他AP节点通过这个节点Wi-Fi接入。
 
 ### 8. 漫游组件(Band Steer Helper)
-   目前可以选择DAWN或者usteer作为漫游辅助控件
+   目前可以选择DAWN(https://github.com/fakemesh/dawn)或者usteer(https://github.com/fakemesh/usteer)作为漫游辅助控件。
 
 ## 无线管理(Wireless Management)
 
