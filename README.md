@@ -4,6 +4,8 @@ fakemesh是由一个`控制器（AC）`和一个或者多个`有线AP（Wired AP
 
 fakemesh在部署上非常方便，只需要设置好节点设备的角色，Mesh ID等信息，就可以轻松接入。
 
+目前[X-WRT](https://github.com/x-wrt/x-wrt)默认集成了fakemesh功能
+
 ## fakemesh 使用
 
 ### 组网成功后统一的访问设备的地址格式如下:
@@ -73,7 +75,7 @@ AP包括: `卫星(Agent)`和`有线AP(Wired AP)`两种
    这个节点关闭前传无线信号，也就是不允许其他AP节点通过这个节点Wi-Fi接入。
 
 ### 8. 漫游组件(Band Steer Helper)
-   目前可以选择DAWN(https://github.com/fakemesh/dawn)或者usteer(https://github.com/fakemesh/usteer)作为漫游辅助控件。
+   目前可以选择[DAWN](https://github.com/fakemesh/dawn)或者[usteer](https://github.com/fakemesh/usteer)作为漫游辅助控件。
 
 ## 无线管理(Wireless Management)
 
