@@ -8,7 +8,7 @@ fakemesh在部署上非常方便，只需要设置好节点设备的角色，Mes
 
 ### 组网成功后统一的访问设备的地址格式如下:
 
-访问控制器的地址: `http://controller.fakemesh/`
+访问控制器的地址: `http://controller.fakemesh/`或者`http://ac.fakemesh/`
 
 访问AP的地址: `http://{mac}.ap.fakemesh/` 或者 `http://N.ap.fakemesh/`
 
