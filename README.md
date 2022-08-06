@@ -69,6 +69,12 @@ AP包括: `卫星(Agent)`和`有线AP(Wired AP)`两种
 
    设置一个特定的IP地址给控制器，可以通过这个IP访问控制器的管理界面。
 
+### 7. 关闭前传(Fronthaul Disabled)
+   这个节点关闭前传无线信号，也就是不允许其他AP节点通过这个节点Wi-Fi接入。
+
+### 8. 漫游组件(Band Steer Helper)
+   目前可以选择DAWN或者usteer作为漫游辅助控件
+
 ## 无线管理(Wireless Management)
 
    可以在控制器界面上统一管理无线，包括增删SSID，设置SSID的加密方式，频宽。
